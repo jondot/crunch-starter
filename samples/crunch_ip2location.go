@@ -1,7 +1,7 @@
 package main
 
 import (
-	"../../crunch"
+	"github.com/jondot/crunch"
 	"strings"
   "github.com/oschwald/geoip2-golang"
   "log"

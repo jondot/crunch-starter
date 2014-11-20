@@ -1,3 +1,5 @@
 vendor/
 crunch-starter
 crunch.*
+GeoLite2-City*
+crunch_ip2location
